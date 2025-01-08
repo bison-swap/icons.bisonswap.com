@@ -9,12 +9,12 @@
         {
             "contractid": "15a968dfa24c401525cd119ceb11da160c977b246a9183207408a31874637ca1",
             "symbol": "DOGE",
-            "logo": "doge.png"
+            "logo": "15a968dfa24c401525cd119ceb11da160c977b246a9183207408a31874637ca1.png"
         },
         {
             "contractid": "76a1c81b828a9b7f1e2ad3a74c3d97a5ed1271e471096609e5fa0e2480685cb8",
             "symbol": "PEPE",
-            "logo": "pepe.png"
+            "logo": "76a1c81b828a9b7f1e2ad3a74c3d97a5ed1271e471096609e5fa0e2480685cb8.png"
         }
     ]
 }
