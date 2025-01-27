@@ -15,6 +15,11 @@
             "contractid": "5f1e4860d15f3eba92406fd52c5783efba9db8d8d77cb25d539980fd7bfd0234",
             "symbol": "PEPE",
             "logo": "5f1e4860d15f3eba92406fd52c5783efba9db8d8d77cb25d539980fd7bfd0234.png"
+        },
+        {
+            "contractid": "00aa1284c50b8d85cd73c793f3a29063c9e1a4b78153691e3c99393c7f975aa2",
+            "symbol": "TRUMP",
+            "logo": "00aa1284c50b8d85cd73c793f3a29063c9e1a4b78153691e3c99393c7f975aa2.png"
         }
     ]
 }
