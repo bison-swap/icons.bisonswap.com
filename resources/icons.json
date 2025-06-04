@@ -20,6 +20,11 @@
             "contractid": "00aa1284c50b8d85cd73c793f3a29063c9e1a4b78153691e3c99393c7f975aa2",
             "symbol": "TRUMP",
             "logo": "00aa1284c50b8d85cd73c793f3a29063c9e1a4b78153691e3c99393c7f975aa2.png"
+        },
+        {
+            "contractid": "116e2ba135b22d689890e0d04c40f74feb134e020980072920423ab0acf695ce",
+            "symbol": "BTF",
+            "logo": "116e2ba135b22d689890e0d04c40f74feb134e020980072920423ab0acf695ce.png"
         }
     ]
 }
